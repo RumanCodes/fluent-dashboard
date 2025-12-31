@@ -2,6 +2,8 @@
 
 Follow the steps below to set up and start using this WordPress plugin boilerplate for: `fluent-dashboard`
 
+It is develop by a powerful framework that I have build called wp-plugin-init here: https://www.npmjs.com/package/wp-plugin-init
+
 ## Requirements
 
 - **Node.js**: Version `18`
