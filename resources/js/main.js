@@ -120,7 +120,7 @@ document.addEventListener('DOMContentLoaded', () => {
             right: '20px',
             padding: '12px 20px',
             borderRadius: '8px',
-            backgroundColor: type === 'success' ? '#10b981' : '#ef4444',
+            backgroundColor: type === 'success' ? '#3BD2FC' : '#ef4444',
             color: '#ffffff',
             fontSize: '14px',
             fontWeight: '600',
