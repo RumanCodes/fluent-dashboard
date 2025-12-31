@@ -1,0 +1,14 @@
+{
+  "name": "fluent-dashboard",
+  "description": "Boilerplate for fluent-dashboard",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "echo '' > .hot && vite",
+    "build": "rm -f .hot && vite build"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.0",
+    "vite": "^6.3.3",
+    "vue": "^3.4.0"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "your-vendor/fluent-dashboard",
+  "description": "Boilerplate for fluent-dashboard",
+  "type": "wordpress-plugin",
+  "autoload": {
+    "psr-4": {
+      "FluentDashboard\\": "app/"
+    }
+  },
+  "require": {}
+}
